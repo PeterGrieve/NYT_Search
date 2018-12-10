@@ -1,3 +1,8 @@
+
+
+This project is not fully functional and is still being updated.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
